@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Theme75</key>
+	<array>
+		<string>75_1.jpg</string>
+		<string>75_2.jpg</string>
+		<string>75_3.jpg</string>
+	</array>
+	<key>Theme74</key>
+	<array>
+		<string>74_1.jpg</string>
+		<string>74_2.jpg</string>
+		<string>74_3.jpg</string>
+	</array>
+	<key>Theme73</key>
+	<array>
+		<string>73_1.jpg</string>
+		<string>73_2.jpg</string>
+		<string>73_3.jpg</string>
+	</array>
+	<key>Theme72</key>
+	<array>
+		<string>72_1.jpg</string>
+		<string>72_2.jpg</string>
+		<string>72_3.jpg</string>
+	</array>
+	<key>Theme71</key>
+	<array>
+		<string>71_1.jpg</string>
+		<string>71_2.jpg</string>
+		<string>71_3.jpg</string>
+	</array>
+	<key>Theme70</key>
+	<array>
+		<string>70_1.jpg</string>
+		<string>70_2.jpg</string>
+		<string>70_3.jpg</string>
+	</array>
+	<key>Theme69</key>
+	<array>
+		<string>69_1.jpg</string>
+		<string>69_2.jpg</string>
+		<string>69_3.jpg</string>
+	</array>
+	<key>Theme68</key>
+	<array>
+		<string>68_1.jpg</string>
+		<string>68_2.jpg</string>
+		<string>68_3.jpg</string>
+	</array>
+	<key>Theme67</key>
+	<array>
+		<string>67_1.jpg</string>
+		<string>67_2.jpg</string>
+		<string>67_3.jpg</string>
+	</array>
+</dict>
+</plist>
